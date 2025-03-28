@@ -1,7 +1,7 @@
 # MSSF-Net: A Multimodal Spectral-Spatial Feature Fusion Network  for Hyperspectral Unmixing
 The code in this toolbox implements the MSSF-Net: A Multimodal Spectral-Spatial Feature Fusion Network  for Hyperspectral Unmixing.
 More specifically， it is detailed as follow.
-![MSSF-Net.png](main/MSSF-Net.png)
+![MSSF-Net.png](MSSF-Net.png)
 
 # Generate Attribute Profile
 
