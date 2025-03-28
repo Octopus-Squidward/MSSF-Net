@@ -10,6 +10,7 @@ The attribute profiles for LiDAR is applied based on the research work of [Dr.Li
 num_scales = 2;
 MPNeachpca = getmorphprofiles(DSM, 'euclidean', 'square', num_scales);
 MPN = cat(3, MPNeachpca, DSM);
+```
 
 # Citation
 Please kindly cite the papers if this code is useful and helpf for your research.
